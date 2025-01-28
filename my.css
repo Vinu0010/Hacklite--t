@@ -1,0 +1,41 @@
+* {
+    font-family: "Trebuchet MS";
+    margin: 1%;
+    background-color: beige;
+}
+
+form {
+    justify-content: center;
+    align-items: center;
+    padding: 1px;
+}
+
+body {
+    max-width: 500px;
+    margin: auto;
+    padding: 5px;
+    background: url('MainAfter.jpg') ;
+    background-size: cover; 
+    background-attachment: fixed; 
+}
+
+h1, h2 {
+    color: blue;
+    font-weight: bold; /* Fixed typo in font-weight */
+    font-size: large;
+}
+
+.left {
+    color: cadetblue;
+    text-align: left;
+}
+
+.center {
+    color: violet;
+    text-align: center;
+}
+
+.right {
+    color: yellow;
+    text-align: right;
+}
